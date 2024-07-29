@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "41C4B585-3034-4630-8939-48D3B3A4880A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "715A3FB4-D4F1-451C-BA06-CD8795ABB8DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "715A3FB4-D4F1-451C-BA06-CD8795ABB8DC - 4a3c2af29b834d71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "715A3FB4-D4F1-451C-BA06-CD8795ABB8DC - 4a3c2af29b834d16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C71E9ABB-078C-4C7E-8D2A-67D0814FDE48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "MessageTableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B4ABCAC-4FD6-48D6-BD27-BAE1C24373BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "MessageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "4B4ABCAC-4FD6-48D6-BD27-BAE1C24373BB - 1b556868a526d370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.sendingMsg(with: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "4B4ABCAC-4FD6-48D6-BD27-BAE1C24373BB - 1b556868a526d391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.sendingMsg(with: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78B8924C-FEC8-4368-B3CA-2D5A55D95C4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "MessageInfo"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MessageTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8 - 5346791e8e053b21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; WhatsApp.MessageTableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8 - 6899367dcdd02fc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; WhatsApp.MessageTableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8 - 2df32d336e97bc4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WhatsApp.MessageTableViewCell&gt;"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8 - ad58fb3873be163"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WhatsApp.MessageTableViewCell&gt;"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "FC9EE0DF-89DF-4C04-B66C-A47C1B32C7E8 - d0c7873e9e3f7fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageTableViewCell.__deallocating_deinit"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79078813-6D02-4AB4-BBA6-61099CC3092C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79078813-6D02-4AB4-BBA6-61099CC3092C - e061c8f6afd9f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "79078813-6D02-4AB4-BBA6-61099CC3092C - e061c8f6afd9f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8686F765-482F-47D2-A146-18EF669FF313"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8686F765-482F-47D2-A146-18EF669FF313 - 4a3c2af29b834e0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1022">
+               </Location>
+               <Location
+                  uuid = "8686F765-482F-47D2-A146-18EF669FF313 - 4a3c2af29b834e2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1022">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB242B0E-FC30-4971-85E7-CD8E9D7959E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatsApp/MessageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB242B0E-FC30-4971-85E7-CD8E9D7959E9 - e061c8f6afd9f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "BB242B0E-FC30-4971-85E7-CD8E9D7959E9 - e061c8f6afd9f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatsApp.MessageViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WhatsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi/Desktop/Development/WhatsApp/WhatsApp/MessageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
